@@ -31,3 +31,35 @@ Flutter version 2.5.2
 - [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
 - [cp949](https://pub.dev/packages/cp949)
 - [flutter_easyloading](https://pub.dev/packages/flutter_easyloading)
+
+# 결과물 페이지
+![image](https://user-images.githubusercontent.com/91882939/224696900-35024649-bc69-4af7-ae06-6200e8a602f4.png)
+
+
+![image](https://user-images.githubusercontent.com/91882939/224697035-b618cb37-79e6-42a3-851e-a78ef683e1cf.png)
+
+
+![image](https://user-images.githubusercontent.com/91882939/224697163-f86bb539-5050-4251-8ae1-a321edf2f915.png)
+
+
+![image](https://user-images.githubusercontent.com/91882939/224697452-29260669-2207-4a27-be54-6a202cb1b15f.png)
+
+
+![image](https://user-images.githubusercontent.com/91882939/224697503-da925ba9-c5b9-4053-93e6-dace44bb1759.png)
+
+
+![image](https://user-images.githubusercontent.com/91882939/224697556-07555f17-173a-48af-88de-c45301c807d4.png)
+
+
+![image](https://user-images.githubusercontent.com/91882939/224697596-bdd2077e-29a1-485c-9c38-ed0812b59c96.png)
+
+
+![image](https://user-images.githubusercontent.com/91882939/224697643-769bae4f-530c-48ed-9d3a-1b2965906ebd.png)
+
+
+![image](https://user-images.githubusercontent.com/91882939/224697682-1319be11-8404-463d-b2c2-4e1835dd6a0f.png)
+
+
+
+
+
